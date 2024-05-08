@@ -1,2 +1,2 @@
-let nome = 'Paçoca'
-console.log(nome)
+let nome = 'Gustavo Soares de Souza'
+console.log(nome.replace("Gustavo", "Paçoca"))
