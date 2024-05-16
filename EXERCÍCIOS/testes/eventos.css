@@ -1,0 +1,14 @@
+body {
+    font-size: 3rem;
+}
+
+#botao {
+    width: 6rem;
+    height: 3rem;
+}
+
+#botao:hover{
+    border: 3px solid rgb(95, 95, 95);
+    background-color: rgb(141, 141, 141);
+    color: white;
+}
