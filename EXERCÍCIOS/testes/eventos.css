@@ -1,5 +1,9 @@
 body {
     font-size: 3rem;
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
 }
 
 #botao {
@@ -7,7 +11,7 @@ body {
     height: 3rem;
 }
 
-#botao:hover{
+#botao:hover {
     border: 3px solid rgb(95, 95, 95);
     background-color: rgb(141, 141, 141);
     color: white;
